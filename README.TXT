@@ -1,12 +1,5 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE:Animal Taxonomy
+PURPOSE OF PROJECT:Getting familiar with inheritance and overriding methods
+AUTHORS:Mohamed Moustafa
+DESCRIPTION:
+This project is made to practice inheritance using animals and their classification.
